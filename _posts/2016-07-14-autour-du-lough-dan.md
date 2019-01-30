@@ -17,8 +17,7 @@ Bref un petit coup de tram, et je retrouve Fergus mon chauffeur et guide, et 40 
 
 On commence par un peu de bitume avant de monter le long d'une montagne marécageuse. Le plafond est bas, il fait frais et il y a du vent, conditions idéales pour moi qui ait tendance à surchauffer. Au bout de 2 heures nous arrivons en vu du sommet. Il fait un vent pas possible et nous rencontrons 2 autres randonneurs brièvement. Le terrain est mârécageux, donc mou, et il est très agréable de marcher dessus...
 
-[![](http://wanderlufst.files.wordpress.com/2016/07/wp-image-263839576jpg.jpg)](http://wanderlufst.files.wordpress.com/2016/07/wp-image-263839576jpg.jpg)
-
+[![]({{ site.baseurl }}/images/2016-07-14-autour-du-lough-dan/wp-image-263839576jpg.jpg)]
 
 [Fergus et le couple rencontré le matin... ça souffle dur ici.]
 
